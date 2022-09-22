@@ -35,16 +35,20 @@ html::-webkit-scrollbar {
   }
 
   .footer h3{
-    
+    margin:0 auto;
     color:#dee0e3;
     font-size:1rem;
-    line-height:1.25rem;
-    margin:0 auto;
+    line-height:1.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
   }
 
   .footer p{
-    color:#aab1b8;
-    font-size:1rem;
-    line-height:1.25rem;
     margin:0 auto;
+    color:#aab1b8;
+    font-size:0.875rem;
+    line-height:1rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+
   }
